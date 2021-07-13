@@ -54,6 +54,32 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "readingradiant",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://https://unsplash.com/photos/1emWndlDHs0',
+        //I'll get the correct image url when I fix my right-click issue
+        likes: 700,
+        timestamp: "July 19th 2017, 3:21:20 pm",
+        comments: [
+            {
+                id: 40,
+                username: "readingradiant",
+                text: "Come check out our new books!",
+            },
+            {
+                id: 41,
+                username: "bunnybionicle",
+                text: "I go there all the time!",
+            },
+            {
+                id: 42,
+                username: "cassylinkman",
+                text: "I've always wanted to try this place!",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
